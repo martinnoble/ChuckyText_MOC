@@ -1,8 +1,8 @@
 DE,
 CT,8,T
-PS,C008
 PN,14701
 SC,0001
+PS,C008
 FL,148,149,110,170,1ff,101
 OL,1,Q?o5ppp`u`pp0ppp             .///-   
 OL,2,Q5j5s{"7j{5ws           Q"sssss!  
@@ -29,6 +29,7 @@ OL,23,A]G              SOUTHAMPTON, SO15 5TT.
 OL,24,AEco-Scene BWrite It! CTV FDigitiser    
 PN,14701
 SC,0001
+PS,8000
 FL,148,149,110,170,1ff,101
 OL,1,Q?o5ppp`u`pp0ppp             .///-   
 OL,2,Q5j5s{"7j{5ws           Q"sssss!  
@@ -55,6 +56,7 @@ OL,23,A]G              SOUTHAMPTON, SO15 5TT.
 OL,24,AEco-Scene BWrite It! CTV FDigitiser    
 PN,14702
 SC,0002
+PS,C008
 FL,148,149,110,170,1ff,101
 OL,1,Q?o5ppp`u`pp0ppp             .///-   
 OL,2,Q5j5s{"7j{5ws           Q"sssss!  
@@ -81,6 +83,7 @@ OL,23,A]G              SOUTHAMPTON, SO15 5TT.
 OL,24,AEco-Scene BWrite It! CTV FDigitiser    
 PN,14702
 SC,0002
+PS,8000
 FL,148,149,110,170,1ff,101
 OL,1,Q?o5ppp`u`pp0ppp             .///-   
 OL,2,Q5j5s{"7j{5ws           Q"sssss!  

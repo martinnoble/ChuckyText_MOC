@@ -1,8 +1,8 @@
 DE,
 CT,8,T
-PS,C008
 PN,19201
 SC,0001
+PS,C008
 OL,27,@EIOGOCGIOGOC@AOGOC@DOGOC@@@@@L@IOGOCO@@
 OL,1,WW?/pp`pp0pppp0ppp  s1z0              
 OL,2,WW?%7bs57k5w  5k!S////////////y
@@ -29,6 +29,7 @@ OL,22,G]AMFDTAKE A TRIP ON THE 'TISER p170
 OL,24,APen Pals  BWrite it  CTV  FClub 140    
 PN,19201
 SC,0001
+PS,8000
 OL,27,@EIOGOCGIOGOC@AOGOC@DOGOC@@@@@L@IOGOCO@@
 OL,1,WW?/pp`pp0pppp0ppp  s1z0              
 OL,2,WW?%7bs57k5w  5k!S////////////y
@@ -55,6 +56,7 @@ OL,22,G]AMFDTAKE A TRIP ON THE 'TISER p170
 OL,24,APen Pals  BWrite it  CTV  FClub 140    
 PN,19202
 SC,0002
+PS,C008
 OL,27,@EIOGOCGIOGOC@AOGOC@DOGOC@@@@@L@IOGOCO@@
 OL,1,S]DFRAME ITV^\_U|V
 OL,2,V'U~7 ~Vj
@@ -82,6 +84,7 @@ OL,23,S||||||||||||||GKatie, 11S||||||||||||||
 OL,24,APen Pals  BWrite it  CTV  FClub 140    
 PN,19202
 SC,0002
+PS,8000
 OL,27,@EIOGOCGIOGOC@AOGOC@DOGOC@@@@@L@IOGOCO@@
 OL,1,S]DFRAME ITV^\_U|V
 OL,2,V'U~7 ~Vj
@@ -109,6 +112,7 @@ OL,23,S||||||||||||||GKatie, 11S||||||||||||||
 OL,24,APen Pals  BWrite it  CTV  FClub 140    
 PN,19203
 SC,0003
+PS,C008
 OL,27,@EIOGOCGIOGOC@AOGOC@DOGOC@@@@@L@IOGOCO@@
 OL,1,S]DFRAME ITV^\?///////
 OL,2,V'       #+'!         +o
@@ -136,6 +140,7 @@ OL,23,S||||||||||||||GCara, 11S|||||||||||||||
 OL,24,APen Pals  BWrite it  CTV  FClub 140    
 PN,19203
 SC,0003
+PS,8000
 OL,27,@EIOGOCGIOGOC@AOGOC@DOGOC@@@@@L@IOGOCO@@
 OL,1,S]DFRAME ITV^\?///////
 OL,2,V'       #+'!         +o
@@ -163,6 +168,7 @@ OL,23,S||||||||||||||GCara, 11S|||||||||||||||
 OL,24,APen Pals  BWrite it  CTV  FClub 140    
 PN,19204
 SC,0004
+PS,C008
 OL,27,@EIOGOCGIOGOC@AOGOC@DOGOC@@@@@L@IOGOCO@@
 OL,1,S]DFRAME ITV^\
 OL,2,V]T                                     
@@ -190,6 +196,7 @@ OL,23,S|||||||||||||GWilliam, 5S||||||||||||||
 OL,24,APen Pals  BWrite it  CTV  FClub 140    
 PN,19204
 SC,0004
+PS,8000
 OL,27,@EIOGOCGIOGOC@AOGOC@DOGOC@@@@@L@IOGOCO@@
 OL,1,S]DFRAME ITV^\
 OL,2,V]T                                     

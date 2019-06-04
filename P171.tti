@@ -1,8 +1,8 @@
 DE,
 CT,8,T
-PS,C008
 PN,17101
 SC,0001
+PS,C008
 FL,172,173,160,110,1ff,170
 OL,1,R+%|l4|,$|,$s  n=j=|h<| k4|l4|l4W?4   
 OL,2,Rr5z5s{5s{5  j5j5jws z%z5z5Wu#m'm
@@ -28,6 +28,7 @@ OL,22,B]MDWAITER, WHERE ARE THE FLIES? p198
 OL,24,AReviews   BReviews   CGreen   FTV      
 PN,17101
 SC,0001
+PS,8000
 FL,172,173,160,110,1ff,170
 OL,1,R+%|l4|,$|,$s  n=j=|h<| k4|l4|l4W?4   
 OL,2,Rr5z5s{5s{5  j5j5jws z%z5z5Wu#m'm
@@ -53,6 +54,7 @@ OL,22,B]MDWAITER, WHERE ARE THE FLIES? p198
 OL,24,AReviews   BReviews   CGreen   FTV      
 PN,17102
 SC,0002
+PS,C008
 FL,172,173,160,110,1ff,170
 OL,1,R+%|l4|,$|,$s  n=j=|h<| k4|l4|l4W?4   
 OL,2,Rr5z5s{5s{5  j5j5jws z%z5z5Wu#m'm
@@ -76,6 +78,7 @@ OL,22,B]MDBAMBER:"IT WAS ALREADY BROKEN" p152
 OL,24,AReviews   BReviews   CGreen   FTV      
 PN,17102
 SC,0002
+PS,8000
 FL,172,173,160,110,1ff,170
 OL,1,R+%|l4|,$|,$s  n=j=|h<| k4|l4|l4W?4   
 OL,2,Rr5z5s{5s{5  j5j5jws z%z5z5Wu#m'm
@@ -99,6 +102,7 @@ OL,22,B]MDBAMBER:"IT WAS ALREADY BROKEN" p152
 OL,24,AReviews   BReviews   CGreen   FTV      
 PN,17103
 SC,0003
+PS,C008
 FL,172,173,160,110,1ff,170
 OL,1,R+%|l4|,$|,$s  n=j=|h<| k4|l4|l4W?4   
 OL,2,Rr5z5s{5s{5  j5j5jws z%z5z5Wu#m'm
@@ -123,6 +127,7 @@ OL,22,B]MDWAITER, WHERE ARE THE FLIES? p198
 OL,24,AReviews   BReviews   CGreen   FTV      
 PN,17103
 SC,0003
+PS,8000
 FL,172,173,160,110,1ff,170
 OL,1,R+%|l4|,$|,$s  n=j=|h<| k4|l4|l4W?4   
 OL,2,Rr5z5s{5s{5  j5j5jws z%z5z5Wu#m'm

@@ -1,8 +1,8 @@
 DE,
 CT,8,T
-PS,C008
 PN,19501
 SC,0001
+PS,C008
 OL,27,@FIOGOCGIOGOC@DOGOC@AOGOC@@@@@L@IOGOCO@@
 OL,1,S?`pp0ppp `pp0pppj`pp0W///*} WsR/W.%/
 OL,2,S}j{57 jk5s{jjs1R / Ws W+%/////
@@ -26,6 +26,7 @@ OL,23,D]G              SOUTHAMPTON, SO15 5TT.
 OL,24,ATurner   BWrite It   CClub 140   FTV   
 PN,19501
 SC,0001
+PS,8000
 OL,27,@FIOGOCGIOGOC@DOGOC@AOGOC@@@@@L@IOGOCO@@
 OL,1,S?`pp0ppp `pp0pppj`pp0W///*} WsR/W.%/
 OL,2,S}j{57 jk5s{jjs1R / Ws W+%/////
@@ -49,6 +50,7 @@ OL,23,D]G              SOUTHAMPTON, SO15 5TT.
 OL,24,ATurner   BWrite It   CClub 140   FTV   
 PN,19502
 SC,0002
+PS,C008
 OL,27,@FIOGOCGIOGOC@DOGOC@AOGOC@@@@@L@IOGOCO@@
 OL,1,S?`pp0ppp `pp0pppj`pp0W///*} WsR/W.%/
 OL,2,S}j{57 jk5s{jjs1R / Ws W+%/////
@@ -72,6 +74,7 @@ OL,23,D]G              SOUTHAMPTON, SO15 5TT.
 OL,24,ATurner   BWrite It   CClub 140   FTV   
 PN,19502
 SC,0002
+PS,8000
 OL,27,@FIOGOCGIOGOC@DOGOC@AOGOC@@@@@L@IOGOCO@@
 OL,1,S?`pp0ppp `pp0pppj`pp0W///*} WsR/W.%/
 OL,2,S}j{57 jk5s{jjs1R / Ws W+%/////

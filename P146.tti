@@ -1,8 +1,8 @@
 DE,
 CT,8,T
-PS,C000
 PN,14601
 SC,0001
+PS,C008
 FL,147,148,110,170,1ff,101
 OL,1,Q?5ppp`pp0ppp`uVS          W/####/
 OL,2,Q}57j75ws"7V           Wp||ts
@@ -28,6 +28,7 @@ OL,23,A]         GLONDON, SW6 1XT.
 OL,24,AMates  BEco-Scene  CTV  FDigitiser     
 PN,14601
 SC,0001
+PS,8000
 FL,147,148,110,170,1ff,101
 OL,1,Q?5ppp`pp0ppp`uVS          W/####/
 OL,2,Q}57j75ws"7V           Wp||ts
@@ -53,6 +54,7 @@ OL,23,A]         GLONDON, SW6 1XT.
 OL,24,AMates  BEco-Scene  CTV  FDigitiser     
 PN,14602
 SC,0002
+PS,C008
 FL,147,148,110,170,1ff,101
 OL,1,Q?5ppp`pp0ppp`uVS          W/####/
 OL,2,Q}57j75ws"7V           Wp||ts
@@ -78,6 +80,7 @@ OL,23,A]         GLONDON, SW6 1XT.
 OL,24,AMates  BEco-Scene  CTV  FDigitiser     
 PN,14602
 SC,0002
+PS,8000
 FL,147,148,110,170,1ff,101
 OL,1,Q?5ppp`pp0ppp`uVS          W/####/
 OL,2,Q}57j75ws"7V           Wp||ts

@@ -1,8 +1,8 @@
 DE,
 CT,8,T
-PS,C008
 PN,19801
 SC,0001
+PS,C008
 FL,400,110,140,443,1ff,190
 OL,1,S?/j`p`0ppph`pp0 j`pp05p`pp0ppp S/R.
 OL,2,S5jjj5k js1 jjk5?wj{5wsS//**
@@ -29,6 +29,7 @@ OL,23,D]G LONDON, SW6 1XT. Fax: 0171 386 7808.
 OL,24,AFull Guide BTV CClub 140 FFamily Fun   
 PN,19801
 SC,0001
+PS,8000
 FL,400,110,140,443,1ff,190
 OL,1,S?/j`p`0ppph`pp0 j`pp05p`pp0ppp S/R.
 OL,2,S5jjj5k js1 jjk5?wj{5wsS//**
@@ -55,6 +56,7 @@ OL,23,D]G LONDON, SW6 1XT. Fax: 0171 386 7808.
 OL,24,AFull Guide BTV CClub 140 FFamily Fun   
 PN,19802
 SC,0002
+PS,C008
 FL,400,110,140,443,1ff,190
 OL,1,S?/j`p`0ppph`pp0 j`pp05p`pp0ppp S/R.
 OL,2,S5jjj5k js1 jjk5?wj{5wsS//**
@@ -79,6 +81,7 @@ OL,23,D]CLeisure 410 Cinema 460 Music    480
 OL,24,AFull Guide BTV CClub 140 FFamily Fun   
 PN,19802
 SC,0002
+PS,8000
 FL,400,110,140,443,1ff,190
 OL,1,S?/j`p`0ppph`pp0 j`pp05p`pp0ppp S/R.
 OL,2,S5jjj5k js1 jjk5?wj{5wsS//**
@@ -103,6 +106,7 @@ OL,23,D]CLeisure 410 Cinema 460 Music    480
 OL,24,AFull Guide BTV CClub 140 FFamily Fun   
 PN,19803
 SC,0003
+PS,C008
 FL,400,110,140,443,1ff,190
 OL,1,S?/j`p`0ppph`pp0 j`pp05p`pp0ppp S/R.
 OL,2,S5jjj5k js1 jjk5?wj{5wsS//**
@@ -127,6 +131,7 @@ OL,23,D]CLeisure 410 Cinema 460 Music    480
 OL,24,AFull Guide BTV CClub 140 FFamily Fun   
 PN,19803
 SC,0003
+PS,8000
 FL,400,110,140,443,1ff,190
 OL,1,S?/j`p`0ppph`pp0 j`pp05p`pp0ppp S/R.
 OL,2,S5jjj5k js1 jjk5?wj{5wsS//**
