@@ -1,8 +1,9 @@
-DE,no description
+DE,Chunky Fringe Main Page
 CT,8,T
+PS,C000
 PN,10000
 SC,0000
-PS,c000
+FL,101,150,170,102,8ff,8ff
 OL,1,W`|<t|0`l4 h|4l|  |t(|0 h|0<x  hx4|t  ||
 OL,2,Wz?o}b5 j~5?  j{} j}5  :%  ~w
 OL,3,W  --j{5 j1~  v*0jo5~   }  
@@ -26,4 +27,4 @@ OL,20,R AT 5  55j  *j  j  5j  *j   j  5 THE
 OL,21,R    u  5uj0`pj0 j0 ujpppjpppjppu  SHOW 
 OL,22,R      5j5 jj5 j5 `  j5  j5 j  HLIVE
 OL,23,R    /,,%/*-,.*% *% /*,,/*-,,*% *       
-OL,24,AChunks   BFringes  CDigitising FGoujons
+OL,24,AIndex  BFun & Games  CDigitiser  FAbout
