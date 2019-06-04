@@ -3,7 +3,7 @@ CT,8,T
 PN,14601
 SC,0001
 PS,C008
-FL,147,148,110,170,1ff,101
+FL,147,148,102,170,1ff,101
 OL,1,Q?5ppp`pp0ppp`uVS          W/####/
 OL,2,Q}57j75ws"7V           Wp||ts
 OL,3,Q555j}5|~ 5T           W?cx ( |r/
@@ -25,11 +25,11 @@ OL,20,G``````````````````````````````````1/2``
 OL,21, B60 words max. Letters may be amended. 
 OL,22,A]GWRITE TO: NICK FISHER, PO BOX 297,   
 OL,23,A]         GLONDON, SW6 1XT.            
-OL,24,AMates  BEco-Scene  CTV  FDigitiser     
+OL,24,AMates  BEco-Scene  FAbout  FDigitiser  
 PN,14601
 SC,0001
 PS,8000
-FL,147,148,110,170,1ff,101
+FL,147,148,102,170,1ff,101
 OL,1,Q?5ppp`pp0ppp`uVS          W/####/
 OL,2,Q}57j75ws"7V           Wp||ts
 OL,3,Q555j}5|~ 5T           W?cx ( |r/
@@ -51,11 +51,11 @@ OL,20,G``````````````````````````````````1/2``
 OL,21, B60 words max. Letters may be amended. 
 OL,22,A]GWRITE TO: NICK FISHER, PO BOX 297,   
 OL,23,A]         GLONDON, SW6 1XT.            
-OL,24,AMates  BEco-Scene  CTV  FDigitiser     
+OL,24,AMates  BEco-Scene  FAbout  FDigitiser  
 PN,14602
 SC,0002
 PS,C008
-FL,147,148,110,170,1ff,101
+FL,147,148,102,170,1ff,101
 OL,1,Q?5ppp`pp0ppp`uVS          W/####/
 OL,2,Q}57j75ws"7V           Wp||ts
 OL,3,Q555j}5|~ 5T           W?cx ( |r/
@@ -77,11 +77,11 @@ OL,20,G``````````````````````````````````2/2``
 OL,21, B60 words max. Letters may be amended. 
 OL,22,A]GWRITE TO: NICK FISHER, PO BOX 297,   
 OL,23,A]         GLONDON, SW6 1XT.            
-OL,24,AMates  BEco-Scene  CTV  FDigitiser     
+OL,24,AMates  BEco-Scene  FAbout  FDigitiser  
 PN,14602
 SC,0002
 PS,8000
-FL,147,148,110,170,1ff,101
+FL,147,148,102,170,1ff,101
 OL,1,Q?5ppp`pp0ppp`uVS          W/####/
 OL,2,Q}57j75ws"7V           Wp||ts
 OL,3,Q555j}5|~ 5T           W?cx ( |r/
@@ -103,4 +103,4 @@ OL,20,G``````````````````````````````````2/2``
 OL,21, B60 words max. Letters may be amended. 
 OL,22,A]GWRITE TO: NICK FISHER, PO BOX 297,   
 OL,23,A]         GLONDON, SW6 1XT.            
-OL,24,AMates  BEco-Scene  CTV  FDigitiser     
+OL,24,AMates  BEco-Scene  FAbout  FDigitiser  

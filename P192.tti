@@ -3,7 +3,7 @@ CT,8,T
 PN,19201
 SC,0001
 PS,C008
-OL,27,@EIOGOCGIOGOC@AOGOC@DOGOC@@@@@L@IOGOCO@@
+FL,195,197,102,140,1ff,190
 OL,1,WW?/pp`pp0pppp0ppp  s1z0              
 OL,2,WW?%7bs57k5w  5k!S////////////y
 OL,3,WW/% /%*-/%/%/*%/-,  /%*/S      S     S
@@ -26,11 +26,11 @@ OL,19,SRQ"#   W.ruV.!G                    S
 OL,20,SCDON'T FORGET YOUR NAME AND ADDRESS!S
 OL,21,Sg|||||||||||||||||||||||||||||||||||||;
 OL,22,G]AMFDTAKE A TRIP ON THE 'TISER p170    
-OL,24,APen Pals  BWrite it  CTV  FClub 140    
+OL,24,APen Pals  BWrite it  CAbout  FClub 140 
 PN,19201
 SC,0001
 PS,8000
-OL,27,@EIOGOCGIOGOC@AOGOC@DOGOC@@@@@L@IOGOCO@@
+FL,195,197,102,140,1ff,190
 OL,1,WW?/pp`pp0pppp0ppp  s1z0              
 OL,2,WW?%7bs57k5w  5k!S////////////y
 OL,3,WW/% /%*-/%/%/*%/-,  /%*/S      S     S
@@ -53,11 +53,11 @@ OL,19,SRQ"#   W.ruV.!G                    S
 OL,20,SCDON'T FORGET YOUR NAME AND ADDRESS!S
 OL,21,Sg|||||||||||||||||||||||||||||||||||||;
 OL,22,G]AMFDTAKE A TRIP ON THE 'TISER p170    
-OL,24,APen Pals  BWrite it  CTV  FClub 140    
+OL,24,APen Pals  BWrite it  CAbout  FClub 140 
 PN,19202
 SC,0002
 PS,C008
-OL,27,@EIOGOCGIOGOC@AOGOC@DOGOC@@@@@L@IOGOCO@@
+FL,195,197,102,140,1ff,190
 OL,1,S]DFRAME ITV^\_U|V
 OL,2,V'U~7 ~Vj
 OL,3,V7U~!z5V
@@ -81,11 +81,11 @@ OL,20,V?QxVQtVo
 OL,21,VQ~VQtV
 OL,22,V||||||||||
 OL,23,S||||||||||||||GKatie, 11S||||||||||||||
-OL,24,APen Pals  BWrite it  CTV  FClub 140    
+OL,24,APen Pals  BWrite it  CAbout  FClub 140 
 PN,19202
 SC,0002
 PS,8000
-OL,27,@EIOGOCGIOGOC@AOGOC@DOGOC@@@@@L@IOGOCO@@
+FL,195,197,102,140,1ff,190
 OL,1,S]DFRAME ITV^\_U|V
 OL,2,V'U~7 ~Vj
 OL,3,V7U~!z5V
@@ -109,11 +109,11 @@ OL,20,V?QxVQtVo
 OL,21,VQ~VQtV
 OL,22,V||||||||||
 OL,23,S||||||||||||||GKatie, 11S||||||||||||||
-OL,24,APen Pals  BWrite it  CTV  FClub 140    
+OL,24,APen Pals  BWrite it  CAbout  FClub 140 
 PN,19203
 SC,0003
 PS,C008
-OL,27,@EIOGOCGIOGOC@AOGOC@DOGOC@@@@@L@IOGOCO@@
+FL,195,197,102,140,1ff,190
 OL,1,S]DFRAME ITV^\?///////
 OL,2,V'       #+'!         +o
 OL,3,V%           #/?!             o
@@ -137,11 +137,11 @@ OL,20,V}Somtj5>{V"o
 OL,21,V=Swmc~tg>g~tV
 OL,22,VSvy}~Vk
 OL,23,S||||||||||||||GCara, 11S|||||||||||||||
-OL,24,APen Pals  BWrite it  CTV  FClub 140    
+OL,24,APen Pals  BWrite it  CAbout  FClub 140 
 PN,19203
 SC,0003
 PS,8000
-OL,27,@EIOGOCGIOGOC@AOGOC@DOGOC@@@@@L@IOGOCO@@
+FL,195,197,102,140,1ff,190
 OL,1,S]DFRAME ITV^\?///////
 OL,2,V'       #+'!         +o
 OL,3,V%           #/?!             o
@@ -165,11 +165,11 @@ OL,20,V}Somtj5>{V"o
 OL,21,V=Swmc~tg>g~tV
 OL,22,VSvy}~Vk
 OL,23,S||||||||||||||GCara, 11S|||||||||||||||
-OL,24,APen Pals  BWrite it  CTV  FClub 140    
+OL,24,APen Pals  BWrite it  CAbout  FClub 140 
 PN,19204
 SC,0004
 PS,C008
-OL,27,@EIOGOCGIOGOC@AOGOC@DOGOC@@@@@L@IOGOCO@@
+FL,195,197,102,140,1ff,190
 OL,1,S]DFRAME ITV^\
 OL,2,V]T                                     
 OL,3,V]T               `,d  `,d              
@@ -193,11 +193,11 @@ OL,20,V]T              8,,,,,=$
 OL,21,V]T             "dppppp%                
 OL,22,V]T                                     
 OL,23,S|||||||||||||GWilliam, 5S||||||||||||||
-OL,24,APen Pals  BWrite it  CTV  FClub 140    
+OL,24,APen Pals  BWrite it  CAbout  FClub 140 
 PN,19204
 SC,0004
 PS,8000
-OL,27,@EIOGOCGIOGOC@AOGOC@DOGOC@@@@@L@IOGOCO@@
+FL,195,197,102,140,1ff,190
 OL,1,S]DFRAME ITV^\
 OL,2,V]T                                     
 OL,3,V]T               `,d  `,d              
@@ -221,4 +221,4 @@ OL,20,V]T              8,,,,,=$
 OL,21,V]T             "dppppp%                
 OL,22,V]T                                     
 OL,23,S|||||||||||||GWilliam, 5S||||||||||||||
-OL,24,APen Pals  BWrite it  CTV  FClub 140    
+OL,24,APen Pals  BWrite it  CAbout  FClub 140 

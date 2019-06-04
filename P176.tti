@@ -3,7 +3,7 @@ CT,8,T
 PN,17601
 SC,0001
 PS,C008
-OL,27,@@IOGOC@AOGOC@DOGOC@EOGOC@@@@@L@GOGOCO@@
+FL,190,102,140,150,1ff,170
 OL,1,R`jb1|$|l4|n5 +%l4sj5|n5   S  ('!   
 OL,2,Rzzj5 s1z5 x4j5j5z5  Wx~}`~}t 
 OL,3,G```````````````````````````Whu
@@ -25,11 +25,11 @@ OL,19,Bpark. 'Elpful, rollickin' news, innit?
 OL,20,G``````````````````````````````````1/9``
 OL,21, B      HippiesF160 BBeatniksF480       
 OL,22,A]LMF DCHILDREN OF THE DAMNED p140      
-OL,24,AKids  BTV  CClub 140  FFun & Games     
+OL,24,AKids  BAbout  CClub 140  FFun & Games  
 PN,17601
 SC,0001
 PS,8000
-OL,27,@@IOGOC@AOGOC@DOGOC@EOGOC@@@@@L@GOGOCO@@
+FL,190,102,140,150,1ff,170
 OL,1,R`jb1|$|l4|n5 +%l4sj5|n5   S  ('!   
 OL,2,Rzzj5 s1z5 x4j5j5z5  Wx~}`~}t 
 OL,3,G```````````````````````````Whu
@@ -51,11 +51,11 @@ OL,19,Bpark. 'Elpful, rollickin' news, innit?
 OL,20,G``````````````````````````````````1/9``
 OL,21, B      HippiesF160 BBeatniksF480       
 OL,22,A]LMF DCHILDREN OF THE DAMNED p140      
-OL,24,AKids  BTV  CClub 140  FFun & Games     
+OL,24,AKids  BAbout  CClub 140  FFun & Games  
 PN,17602
 SC,0002
 PS,C008
-OL,27,@@IOGOC@AOGOC@DOGOC@EOGOC@@@@@L@GOGOCO@@
+FL,190,102,140,150,1ff,170
 OL,1,R+%l4,l4|$n=h<$Qo? pp o? pp o
 OL,2,Rx4j5{5 j5b{5Q #//#xt#//#xt#
 OL,3,G```````````````````````````````````````
@@ -76,11 +76,11 @@ OL,19,   F
 OL,20,G``````````````````````````````````2/9``
 OL,21,   BFun; gamesF150BFinger the indexF100 
 OL,22,B]MD     BAMBER CHEWS MOTH p152         
-OL,24,AKids  BTV  CClub 140  FFun & Games     
+OL,24,AKids  BAbout  CClub 140  FFun & Games  
 PN,17602
 SC,0002
 PS,8000
-OL,27,@@IOGOC@AOGOC@DOGOC@EOGOC@@@@@L@GOGOCO@@
+FL,190,102,140,150,1ff,170
 OL,1,R+%l4,l4|$n=h<$Qo? pp o? pp o
 OL,2,Rx4j5{5 j5b{5Q #//#xt#//#xt#
 OL,3,G```````````````````````````````````````
@@ -101,11 +101,11 @@ OL,19,   F
 OL,20,G``````````````````````````````````2/9``
 OL,21,   BFun; gamesF150BFinger the indexF100 
 OL,22,B]MD     BAMBER CHEWS MOTH p152         
-OL,24,AKids  BTV  CClub 140  FFun & Games     
+OL,24,AKids  BAbout  CClub 140  FFun & Games  
 PN,17603
 SC,0003
 PS,C008
-OL,27,@@IOGOC@AOGOC@DOGOC@EOGOC@@@@@L@GOGOCO@@
+FL,190,102,140,150,1ff,170
 OL,1,R+%l4,l4|$n=h<$Qo? pp o? pp o
 OL,2,Rx4j5{5 j5b{5Q #//#xt#//#xt#
 OL,3,G```````````````````````````````````````
@@ -126,11 +126,11 @@ OL,19,   F
 OL,20,G``````````````````````````````````3/9``
 OL,21, B      HippiesF160 BBeatniksF480       
 OL,22,A]LMF DCHILDREN OF THE DAMNED p440      
-OL,24,AKids  BTV  CClub 140  FFun & Games     
+OL,24,AKids  BAbout  CClub 140  FFun & Games  
 PN,17603
 SC,0003
 PS,8000
-OL,27,@@IOGOC@AOGOC@DOGOC@EOGOC@@@@@L@GOGOCO@@
+FL,190,102,140,150,1ff,170
 OL,1,R+%l4,l4|$n=h<$Qo? pp o? pp o
 OL,2,Rx4j5{5 j5b{5Q #//#xt#//#xt#
 OL,3,G```````````````````````````````````````
@@ -151,11 +151,11 @@ OL,19,   F
 OL,20,G``````````````````````````````````3/9``
 OL,21, B      HippiesF160 BBeatniksF480       
 OL,22,A]LMF DCHILDREN OF THE DAMNED p440      
-OL,24,AKids  BTV  CClub 140  FFun & Games     
+OL,24,AKids  BAbout  CClub 140  FFun & Games  
 PN,17604
 SC,0004
 PS,C008
-OL,27,@@IOGOC@AOGOC@DOGOC@EOGOC@@@@@L@GOGOCO@@
+FL,190,102,140,150,1ff,170
 OL,1,R+%l4,l4|$n=h<$Qo? pp o? pp o
 OL,2,Rx4j5{5 j5b{5Q #//#xt#//#xt#
 OL,3,G```````````````````````````````````````
@@ -175,11 +175,11 @@ OL,18, BELSPA CHARTS COMPILED BY CHART-TRACK
 OL,20,G``````````````````````````````````4/9``
 OL,21,   BFun; gamesF150BFinger the indexF100 
 OL,22,B]MD     BAMBER CHEWS MOTH p152         
-OL,24,AKids  BTV  CClub 140  FFun & Games     
+OL,24,AKids  BAbout  CClub 140  FFun & Games  
 PN,17604
 SC,0004
 PS,8000
-OL,27,@@IOGOC@AOGOC@DOGOC@EOGOC@@@@@L@GOGOCO@@
+FL,190,102,140,150,1ff,170
 OL,1,R+%l4,l4|$n=h<$Qo? pp o? pp o
 OL,2,Rx4j5{5 j5b{5Q #//#xt#//#xt#
 OL,3,G```````````````````````````````````````
@@ -199,11 +199,11 @@ OL,18, BELSPA CHARTS COMPILED BY CHART-TRACK
 OL,20,G``````````````````````````````````4/9``
 OL,21,   BFun; gamesF150BFinger the indexF100 
 OL,22,B]MD     BAMBER CHEWS MOTH p152         
-OL,24,AKids  BTV  CClub 140  FFun & Games     
+OL,24,AKids  BAbout  CClub 140  FFun & Games  
 PN,17605
 SC,0005
 PS,C008
-OL,27,@@IOGOC@AOGOC@DOGOC@EOGOC@@@@@L@GOGOCO@@
+FL,190,102,140,150,1ff,170
 OL,1,R+%l4,l4|$n=h<$Qo? pp o? pp o
 OL,2,Rx4j5{5 j5b{5Q #//#xt#//#xt#
 OL,3,G```````````````````````````````````````
@@ -222,11 +222,11 @@ OL,18, BELSPA CHARTS COMPILED BY CHART-TRACK
 OL,20,G``````````````````````````````````5/9``
 OL,21, B      HippiesF160 BBeatniksF480       
 OL,22,A]LMF DCHILDREN OF THE DAMNED p440      
-OL,24,AKids  BTV  CClub 140  FFun & Games     
+OL,24,AKids  BAbout  CClub 140  FFun & Games  
 PN,17605
 SC,0005
 PS,8000
-OL,27,@@IOGOC@AOGOC@DOGOC@EOGOC@@@@@L@GOGOCO@@
+FL,190,102,140,150,1ff,170
 OL,1,R+%l4,l4|$n=h<$Qo? pp o? pp o
 OL,2,Rx4j5{5 j5b{5Q #//#xt#//#xt#
 OL,3,G```````````````````````````````````````
@@ -245,11 +245,11 @@ OL,18, BELSPA CHARTS COMPILED BY CHART-TRACK
 OL,20,G``````````````````````````````````5/9``
 OL,21, B      HippiesF160 BBeatniksF480       
 OL,22,A]LMF DCHILDREN OF THE DAMNED p440      
-OL,24,AKids  BTV  CClub 140  FFun & Games     
+OL,24,AKids  BAbout  CClub 140  FFun & Games  
 PN,17606
 SC,0006
 PS,C008
-OL,27,@@IOGOC@AOGOC@DOGOC@EOGOC@@@@@L@GOGOCO@@
+FL,190,102,140,150,1ff,170
 OL,1,R+%l4,l4|$n=h<$Qo? pp o? pp o
 OL,2,Rx4j5{5 j5b{5Q #//#xt#//#xt#
 OL,3,G```````````````````````````````````````
@@ -269,11 +269,11 @@ OL,18, BELSPA CHARTS COMPILED BY CHART-TRACK
 OL,20,G``````````````````````````````````6/9``
 OL,21,   BFun; gamesF150BFinger the indexF100 
 OL,22,B]MD     BAMBER CHEWS MOTH p152         
-OL,24,AKids  BTV  CClub 140  FFun & Games     
+OL,24,AKids  BAbout  CClub 140  FFun & Games  
 PN,17606
 SC,0006
 PS,8000
-OL,27,@@IOGOC@AOGOC@DOGOC@EOGOC@@@@@L@GOGOCO@@
+FL,190,102,140,150,1ff,170
 OL,1,R+%l4,l4|$n=h<$Qo? pp o? pp o
 OL,2,Rx4j5{5 j5b{5Q #//#xt#//#xt#
 OL,3,G```````````````````````````````````````
@@ -293,11 +293,11 @@ OL,18, BELSPA CHARTS COMPILED BY CHART-TRACK
 OL,20,G``````````````````````````````````6/9``
 OL,21,   BFun; gamesF150BFinger the indexF100 
 OL,22,B]MD     BAMBER CHEWS MOTH p152         
-OL,24,AKids  BTV  CClub 140  FFun & Games     
+OL,24,AKids  BAbout  CClub 140  FFun & Games  
 PN,17607
 SC,0007
 PS,C008
-OL,27,@@IOGOC@AOGOC@DOGOC@EOGOC@@@@@L@GOGOCO@@
+FL,190,102,140,150,1ff,170
 OL,1,R+%l4,l4|$n=h<$Qo? pp o? pp o
 OL,2,Rx4j5{5 j5b{5Q #//#xt#//#xt#
 OL,3,G```````````````````````````````````````
@@ -319,11 +319,11 @@ OL,18,E13BSYNDICATE WARS      GPC CD-ROM  A92%
 OL,20,G``````````````````````````````````7/9``
 OL,21,B  Percentages denote Digitiser rating  
 OL,22,C] MDI'M THE MAN. PLEASE LOVE ME p174   
-OL,24,AKids  BTV  CClub 140  FFun & Games     
+OL,24,AKids  BAbout  CClub 140  FFun & Games  
 PN,17607
 SC,0007
 PS,8000
-OL,27,@@IOGOC@AOGOC@DOGOC@EOGOC@@@@@L@GOGOCO@@
+FL,190,102,140,150,1ff,170
 OL,1,R+%l4,l4|$n=h<$Qo? pp o? pp o
 OL,2,Rx4j5{5 j5b{5Q #//#xt#//#xt#
 OL,3,G```````````````````````````````````````
@@ -345,11 +345,11 @@ OL,18,E13BSYNDICATE WARS      GPC CD-ROM  A92%
 OL,20,G``````````````````````````````````7/9``
 OL,21,B  Percentages denote Digitiser rating  
 OL,22,C] MDI'M THE MAN. PLEASE LOVE ME p174   
-OL,24,AKids  BTV  CClub 140  FFun & Games     
+OL,24,AKids  BAbout  CClub 140  FFun & Games  
 PN,17608
 SC,0008
 PS,C008
-OL,27,@@IOGOC@AOGOC@DOGOC@EOGOC@@@@@L@GOGOCO@@
+FL,190,102,140,150,1ff,170
 OL,1,R+%l4,l4|$n=h<$Qo? pp o? pp o
 OL,2,Rx4j5{5 j5b{5Q #//#xt#//#xt#
 OL,3,G```````````````````````````````````````
@@ -369,11 +369,11 @@ OL,17,E11BDESTRUCTION DERBY 2 GPlayStationA84%
 OL,20,G``````````````````````````````````8/9``
 OL,21,B  Percentages denote Digitiser rating  
 OL,22,C] MD DIGITISER: BETTER THAN WINE       
-OL,24,AKids  BTV  CClub 140  FFun & Games     
+OL,24,AKids  BAbout  CClub 140  FFun & Games  
 PN,17608
 SC,0008
 PS,8000
-OL,27,@@IOGOC@AOGOC@DOGOC@EOGOC@@@@@L@GOGOCO@@
+FL,190,102,140,150,1ff,170
 OL,1,R+%l4,l4|$n=h<$Qo? pp o? pp o
 OL,2,Rx4j5{5 j5b{5Q #//#xt#//#xt#
 OL,3,G```````````````````````````````````````
@@ -393,11 +393,11 @@ OL,17,E11BDESTRUCTION DERBY 2 GPlayStationA84%
 OL,20,G``````````````````````````````````8/9``
 OL,21,B  Percentages denote Digitiser rating  
 OL,22,C] MD DIGITISER: BETTER THAN WINE       
-OL,24,AKids  BTV  CClub 140  FFun & Games     
+OL,24,AKids  BAbout  CClub 140  FFun & Games  
 PN,17609
 SC,0009
 PS,C008
-OL,27,@@IOGOC@AOGOC@DOGOC@EOGOC@@@@@L@GOGOCO@@
+FL,190,102,140,150,1ff,170
 OL,1,R{%|,h<|h404|l4 k7h<h4|h|x4|l4|l4n=    
 OL,2,Rz5 juj}m5j5 j5j5juj555z5s1j5    
 OL,3,ETHE DIGI VIEWER AWARDSG```R/G``````````
@@ -420,11 +420,11 @@ OL,20, ``````````````````````````````````9/9``
 OL,21,   CCe-mail: digitiser@teletext.co.uk   
 OL,22,B]DLetters to:IBROWN TRUMPET, c/o DIGI, 
 OL,23,B]DTELETEXT, PO BOX 297, LONDON, SW6 1XT
-OL,24,AKids  BTV  CClub 140  FFun & Games     
+OL,24,AKids  BAbout  CClub 140  FFun & Games  
 PN,17609
 SC,0009
 PS,8000
-OL,27,@@IOGOC@AOGOC@DOGOC@EOGOC@@@@@L@GOGOCO@@
+FL,190,102,140,150,1ff,170
 OL,1,R{%|,h<|h404|l4 k7h<h4|h|x4|l4|l4n=    
 OL,2,Rz5 juj}m5j5 j5j5juj555z5s1j5    
 OL,3,ETHE DIGI VIEWER AWARDSG```R/G``````````
@@ -447,4 +447,4 @@ OL,20, ``````````````````````````````````9/9``
 OL,21,   CCe-mail: digitiser@teletext.co.uk   
 OL,22,B]DLetters to:IBROWN TRUMPET, c/o DIGI, 
 OL,23,B]DTELETEXT, PO BOX 297, LONDON, SW6 1XT
-OL,24,AKids  BTV  CClub 140  FFun & Games     
+OL,24,AKids  BAbout  CClub 140  FFun & Games  

@@ -3,7 +3,7 @@ CT,8,T
 PS,8010
 PN,14F00
 SC,0000
-FL,12b,12b,150,12b,1ff,450
+FL,12b,12b,150,12b,1ff,150
 OL,1, ]DWell done!AHow many did you get right
 OL,2,G]Afirst time?DCheck your rating below. 
 OL,3,V    pp0      W4     S 0W(0   Q W"o'    
