@@ -3,21 +3,25 @@ CT,8,T
 PS,C008
 PN,10401
 SC,0001
-FL,110,111,150,101,8ff,8ff
+FL,110,111,112,101,8ff,100
 OL,1,S{5|$n=b1|,$n=h<, CTeletext  S`x||p`0  
 OL,2,Sj5 j5j5s{5j5bs CShowcase  S1{]R($\ 
 OL,3,G`````````````````````````````Sj]Q|T/G\`
-OL,4,                              S #///'!  
-OL,5,C]DNIKKI  \                             
-OL,6,GA newcomer to teletext Art, Nikki has  
-OL,7,Gbeen producing some excellent portraits
-OL,8,CSee p110.  F@NikkiAndBunty             
-OL,10,C]DJELLICA  \                           
-OL,11,GJellica went to Block Party in 2017 and
-OL,12,Ghasn't stopped making teletext art     
-OL,13,Gsince. He also makes Commodore 64 Music
-OL,14,CSee p111.  F@JellicaJake               
+OL,4,C]DNIKKI  \                   S #///'!  
+OL,5,GA newcomer to teletext Art, Nikki has  
+OL,6,Gbeen producing some excellent portraits
+OL,7,CSee p110.  F@NikkiAndBunty             
+OL,9,C]DJELLICA  \                           
+OL,10,GJellica went to Block Party in 2017 and
+OL,11,Ghasn't stopped making teletext art     
+OL,12,Gsince. He also makes Commodore 64 Music
+OL,13,CSee p111.  F@JellicaJake               
+OL,15,C]DDAN FARRIMOND  \                     
+OL,16,GThe current 'scene' surely owes a lot  
+OL,17,Gto Dan's enthusiasm for teletext. His  
+OL,18,Gpages feature many familiar Digi faces.
+OL,19,CSee p112.  F@illarterate               
 OL,20,G``````````````````````````````````1/1``
 OL,21,     CChunkytext editing guideF103      
 OL,22,A]CMA DIGI SHAPED SPACETIME RIFT p170   
-OL,24,ANikki BJellicaCFun & Games  FMain Index
+OL,24,ANikki BJellicaCDan FarrimondFMain Index
