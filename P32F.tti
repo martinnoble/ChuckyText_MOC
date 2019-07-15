@@ -1,6 +1,19 @@
-DE,
+DE,No description
 CT,8,T
-PN,32F00
+PN,32f00
 SC,0000
 PS,c000
-OL,1,   this page reserved for reenthused    
+OL,12,Sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9s
+OL,13,Q]G                                     
+OL,14,Q]G You see a cave within a cave, a     
+OL,15,Q]G metacave if you will.               
+OL,16,Q]G                                     
+OL,17,Q]G                                     
+OL,18,Q]G                                     
+OL,19,Q]G                                     
+OL,20,Q]G                                     
+OL,21,Q]G You can Go South, West or you can   
+OL,22,Q]G enter the metacave.                 
+OL,23,Q]G                                     
+OL,24,AMain IndexBGo SouthCGo WestFEnter Meta 
+FL,101,33c,32e,33e,8ff,101
