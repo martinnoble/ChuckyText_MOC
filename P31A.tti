@@ -5,15 +5,15 @@ SC,0000
 PS,c000
 OL,12,Sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9s
 OL,13,Q]G                                     
-OL,14,Q]G You enter a clearing and happen     
-OL,15,Q]G upon a rustic cottage. You find the 
-OL,16,Q]G fact that it's badly drawn charming 
-OL,17,Q]G                                     
-OL,18,Q]G                                     
+OL,14,Q]G You walk into an open area and      
+OL,15,Q]G immediately trip on an empty bottle 
+OL,16,Q]G                                     
+OL,17,Q]G Looks like it used to hold some     
+OL,18,Q]G kind of red drink, maybe milkshake. 
 OL,19,Q]G                                     
-OL,20,Q]G                                     
-OL,21,Q]G You can go North or you can enter   
-OL,22,Q]G the cottage.                        
+OL,20,Q]G The sheer embarassment of it forces 
+OL,21,Q]G you to leave the area and become a  
+OL,22,Q]G hermit.                             
 OL,23,Q]G                                     
-OL,24,AMain IndexBGo NorthC Enter FRe-enthused
-FL,101,30a,30e,206,8ff,101
+OL,24,AMain IndexBIntroCRe-enthusedFContribtrs
+FL,101,30a,206,200,8ff,101
