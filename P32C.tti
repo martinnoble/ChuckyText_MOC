@@ -2,7 +2,7 @@ DE,No description
 CT,8,T
 PN,32c00
 SC,0000
-PS,c000
+PS,8000
 OL,1,W            j Q,(,(,(,(Wj              
 OL,2,W            j Q,$,$,$,(Wj              
 OL,3,W            j Q        Wj              
