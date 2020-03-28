@@ -1,6 +1,6 @@
 DE,Re-enthused - Index
 CT,8,T
-PN,20600
+PN,41000
 SC,0000
 PS,8000
 OL,2,]
@@ -14,10 +14,10 @@ OL,13,G     The present is horrible
 OL,14,        The future looks bleak          
 OL,15,          Let's go back to the past     
 OL,17, ]                                     \
-OL,18,W EBandai RX-78G207EFMT Marty  G212 W 
-OL,19,W EFujitsu FM7 G208EEpoch SCV  G213 W 
-OL,20,W ESam Coupe   G209EPippin     G214 W 
-OL,21,W EAcorn A3000 G211ELaserActiveG215 W 
+OL,18,W EBandai RX-78G412EFMT Marty  G416 W 
+OL,19,W EFujitsu FM7 G413EEpoch SCV  G417 W 
+OL,20,W ESam Coupe   G414EPippin     G418 W 
+OL,21,W EAcorn A3000 G415ELaserActiveG419 W 
 OL,22, ]                                     \
 OL,24,ABandai RX-78BFujitsu FM7CSam CoupeFNews
-FL,207,208,209,210,8ff,101
+FL,412,413,414,411,8ff,101
