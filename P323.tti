@@ -5,12 +5,12 @@ SC,0000
 PS,8000
 OL,1,MA]CVENN DIAGRAM - Teletexters / Ukes   
 OL,3,             W   ppppp0                 
-OL,4,           W  x,'!    ##,p              
-OL,5,          W 8&            #d            
-OL,6,         W`&                )0          
-OL,7,        W`&                  )0         
-OL,8,       W 6                    i         
-OL,9,       W:                      5        
+OL,4,           W  x,'!RppW"#,p              
+OL,5,          W 8&   Rb1    #d            
+OL,6,         W`&     R w{       )0          
+OL,7,        W`&      R =n        )0         
+OL,8,       W 6       R w{         i         
+OL,9,       W:        R =n          5        
 OL,10,      W 5      R x&##)t       Wj        
 OL,11,      W 5      Rh!    "4      Wj        
 OL,12,      Wj       Rj      5      W"4       
@@ -25,5 +25,5 @@ OL,20,            W")dp0    `p8&!
 OL,21,               W "#,,#!                 
 OL,22, BGreen:GTeletext enthusiasts           
 OL,23,  White: People who own ukuleles        
-OL,24,G                                       
+OL,24,A                                       
 FL,8ff,8ff,8ff,8ff,8ff,100
