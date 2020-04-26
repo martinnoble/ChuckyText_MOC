@@ -3,15 +3,15 @@ CT,8,T
 PN,24800
 SC,0000
 PS,8000
-OL,1,R|,`0           W`p|||tR `<$       
-OL,2,R/|j=h<4|hh<4W x~?##+'##o?!R0j5 s}j74n3
-OL,3,Rpjujw1o:jw1W~?st&s+|'s!"R "'"-$-/*%%,'
-OL,4,B```````````Wz:j 5* %G      TopWbss 
-OL,5,Wbss1GGreat W5~}|||||pG stuff!Wjv~j
-OL,6,Wj}y5Gwork,W j/'~=        *,.p
-OL,7,Wjtp4GSteve!W*?j?a|}sss//#G  KeepWsss |
-OL,8,W,$sqp0        o7 t,,,d~%G  it up!W}-/ /
-OL,9,W75|ll4GYeah! W +$"-,,'!           w sss
+OL,1,R||h4`p0p`0pp   W`p|||4R`|t`p0p0`||
+OL,2,R|j7jw5j5{W x~?##+'##o?R0j5#b{5k*}0
+OL,3,R|j}j}4+>!|W~?st&s+|'s!"R"'*}?j~5*(.?
+OL,4,B```````````Wz:j 5* %B`````````Wbss 
+OL,5,Wbss1GGreat W5~}|||||pG    TopWjv~j
+OL,6,Wj}y5Gwork,W j/'~=Gstuff!W*,.p
+OL,7,Wjtp4GSteve!W*?j?a|}sss//#G      Wsss |
+OL,8,W,$sqp0        o7 t,,,d~%G    KeepW}-/ /
+OL,9,W75|ll4GYeah! W +$"-,,'!G   it up!Ww sss
 OL,10,W{5w5   p|~:2/,,,,`e|t0     (,,, 5
 OL,11,Wp5upp5 `~vsssssy}0   jkk {
 OL,12,Wpp*,.%`4  j>~ p
@@ -27,4 +27,4 @@ OL,21,W  "+//!l|||<x||||~}}~~}}|}$x%ucss
 OL,22,Wssssx||||||tsssrsssssssssssssqx|||||vss
 OL,23,W///////////////////////////////////////
 OL,24,A Next   B....       C....      FHelp   
-FL,103,8ff,8ff,700,8ff,8ff
+FL,8ff,8ff,8ff,8ff,8ff,100
