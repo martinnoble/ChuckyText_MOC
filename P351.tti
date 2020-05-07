@@ -4,10 +4,10 @@ PN,35100
 SC,0000
 PS,8000
 OL,1,G                                       
-OL,2,G   - - - - -  E L I T E  - - - - -     
+OL,2,G   - - - - -  CE L I T E  G- - - - -   
 OL,3,W                                       
-OL,4,W               ppppppx|||p             
-OL,5,W    `x,,,ssss;/,##### `&  #,8#         
+OL,4,W               ppppppppppp             
+OL,5,W    `p,,,ssss;/,####! `&  #,8#         
 OL,6,W  pvql<,/,,,,,,,,&##c?k##),dr3l0       
 OL,7,W "e   3(d0        `<'  e     "#"|      
 OL,8,W   +d:z  #)t0   `<'    j       h!5     
@@ -25,6 +25,6 @@ OL,19,W                           #)dp*p >!
 OL,20,W                               )zz!    
 OL,21,W                                       
 OL,22,W                                       
-OL,23,G Load New Commander (Y/N)? QA szeliga  
+OL,23,G Load New Commander (BYG/ANG)?Fszeliga 
 OL,24,A                                       
 FL,8ff,8ff,8ff,8ff,8ff,100
