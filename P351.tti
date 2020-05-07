@@ -5,9 +5,9 @@ SC,0000
 PS,8000
 OL,1,W                                       
 OL,2,W                                       
-OL,3,W               pppppp8,,<p             
-OL,4,W    `x,,,ssss;/-##!   `&  #,8!         
-OL,5,W  x>/l<,/,,,,,,,,&##c?k##),dr3l0       
+OL,3,W               ppppppx|||p             
+OL,4,W    `x,,,ssss;/,##### `&  #,8#         
+OL,5,W  p>/l<,/,,,,,,,,&##c?k##),dr3l0       
 OL,6,W "e   3(d0        `<'  e     "#"|      
 OL,7,W   +d:z  #)t0   `<'    j       h#5     
 OL,8,W     -v    p#-tx'       e     `5 e     
@@ -18,7 +18,7 @@ OL,12,W            +d1 5  i  +t  5 z!    *0
 OL,13,W              #-2)p 5  "-t:p5      u   
 OL,14,W                "-t#      +gp0     j   
 OL,15,W                  ")d0    t m#+,tp0"4  
-OL,16,W                     #,p  =!"m0   "c5  
+OL,16,W                     #,p  u%"m0   "c5  
 OL,17,W                        #)d0  )0   >   
 OL,18,W                           #)dp*p >!   
 OL,19,W                               )zz!    
