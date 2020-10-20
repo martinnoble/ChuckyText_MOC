@@ -3,7 +3,7 @@ CT,8,T
 PN,26100
 SC,0000
 PS,8008
-OL,1,D]                                      
+OL,1,T||||||||||||||||||pppppp
 OL,2,D]BDon't make me angry...               
 OL,3,T]BYou won't like me  
 OL,4,T'" "!!+]B when I'm angry. 
@@ -21,10 +21,10 @@ OL,15,R     /%Ux~{~|qx~}0   Wk4`jGaction
 OL,16,R       Uz{wt   Wk~jGfigure &
 OL,17,R     U :z/##"#/?}0  W!jGcrowbar 
 OL,18,R     Unn/.7!    ^  kt _Wj`,h`d    
-OL,19,R     h{}?'U!   ^   ^Um'Rp  Wjj!jjG.95 
-OL,20,R     o%           U"R~ ^Wjrsrpqpppp
-OL,21,R     ko               *  W          
-OL,22,R     j?                o4            
-OL,23,R     */%                */%            
+OL,19,Tppp Rh{}?'U!   ^   ^Um'Rp0 Wjj!jjG.95 
+OL,20,T] R  %T^\|||||pppU+R~ Wjrsrpqpppp
+OL,21,T]R   k                j]T]|^\|||ppppp
+OL,22,T]R   j                "            
+OL,23,T]R   j5                 o            
 OL,24,                         B@andyuglifruit
 FL,8ff,8ff,8ff,8ff,8ff,100
