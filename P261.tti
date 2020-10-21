@@ -1,4 +1,4 @@
-DE,Mistake!
+DE,Monster toy.
 CT,8,T
 PN,26100
 SC,0000
@@ -8,7 +8,7 @@ OL,2,D]BDon't make me angry...
 OL,3,T]BYou won't like me  
 OL,4,T'" "!!+]B when I'm angry. 
 OL,5,T####+//////Rh 4d T
-OL,6,R          `p ~#m}.#4T###/////
+OL,6,R          `p ~#m.#4T###/////
 OL,7,R         xk}<+|}}0          T####/
 OL,8,R        ~u{?~t               
 OL,9,R       x7||x||+/4              
@@ -20,11 +20,11 @@ OL,14,R     ;  ^U`tRoo~?/U0   Wk4 _jGPosableW
 OL,15,R     /%Ux~{~|qx~}0   Wk4`jGaction  
 OL,16,R       Uz{wt   Wk~jGfigure &
 OL,17,R     U :z/##"#/?}0  W!jGcrowbar 
-OL,18,R     Unn/.7!    ^  kt _Wj`,h`d    
-OL,19,Tppp Rh{}?'U!   ^   ^Um'Rp0 Wjj!jjG.95 
+OL,18,R     Unn/.7!    ^  ot _Wj`,h`d    
+OL,19,Tppp Rh{}?'U!   ^   ^Um'Rxt Wjj!jjG.95 
 OL,20,T] R  %T^\|||||pppU+R~ Wjrsrpqpppp
-OL,21,T]R   k                j]T]|^\|||ppppp
-OL,22,T]R   j                "            
-OL,23,T]R   j5                 o            
+OL,21,T]R   k                k]T]|^\|||ppppp
+OL,22,T]R   j                *            
+OL,23,T]R   j5                             
 OL,24,                         B@andyuglifruit
 FL,8ff,8ff,8ff,8ff,8ff,100
