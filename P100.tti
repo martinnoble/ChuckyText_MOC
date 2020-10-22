@@ -3,7 +3,7 @@ CT,8,T
 PS,8000
 PN,10000
 SC,0000
-FL,101,150,170,102,8ff,8ff
+FL,102,103,107,101,8ff,101
 OL,28,@@@|g@@p_@dpHpZA@yN_wLs_w}ww]_}_wM@p
 OL,26,@hD@A`@I@AW`Ac@C
 OL,1,FOctober 24 & 25th Rp|l|4F   Art contest
@@ -29,4 +29,4 @@ OL,20,Q         ##//w}y}/#
 OL,21,   R8dh04 8dh 44hh044hh 4,<$<,h 4,<$    
 OL,22,   R5jj"5 5 j,55jj"5=1",5 5 =$b,1 5     
 OL,23,   R)&* % )&* %)&* %%*",! % -,* % %     
-OL,24,AIndex  BFun & Games  CDigitiser  FAbout
+OL,24,AAbout  BUser guide   CSchedule   FIndex
