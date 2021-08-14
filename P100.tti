@@ -1,7 +1,8 @@
 DE,Chunkytext Main Page
-PS,8000
-PN,10000
-SC,0000
+CT,8,T
+PS,C000
+PN,10001
+SC,0001
 FL,102,103,170,101,8ff,101
 OL,1,G                                       
 OL,2,D]Sh||4|4        h|      |4        h|   
@@ -24,4 +25,29 @@ OL,19,A```````````````````````````````````````
 OL,20,   D]FFULLCCHUNKYTEXTFCONTENTSG101  \   
 OL,21,A```````````````````````````````````````
 OL,22,D]GMBEANUS LIKES CHRISTMAS BEANS p170   
+OL,24,AAbout  BUser guide   CDigitiser  FIndex
+PN,10002
+SC,0002
+FL,102,103,170,101,8ff,101
+OL,1,G                                       
+OL,2,D]Sh||4|4        h|      |4        h|   
+OL,3,D]Sj  }|h|h4|||jx$|4|h}h||4|4|4~4  
+OL,4,D]Sj  5jj55jk5/- 5j.%{1j   
+OL,5,T]S*//%/%/*//%/%/*/*%/// /%*//%/%/%*/   
+OL,6,A```````````````````````````````````````
+OL,7,A   CA T  C H U N K Y  F R I N G EA   
+OL,8,A```````````````````````````````````````
+OL,9,MNEW OLD PAGES - FRESH FROM FEBRUARY '98
+OL,10, T                                      
+OL,12,CRECOVERYFA heap of pages W7###########k
+OL,13,Frecovered from old video W5 SHfsss9IW j
+OL,14,Ftape to be enjoyed again W5;tpppppppxgj
+OL,15,Fon Chunkytext.           W5W5` ppp 0jWj
+OL,16,F                         W5W55  jjWj
+OL,17,CVintage Digitiser   G170 W5WurpssspqzWj
+OL,18,CRevisit club 140    G147 Wupppppppppppz
+OL,19,A```````````````````````````````````````
+OL,20,   D]FFULLCCHUNKYTEXTFCONTENTSG101  \   
+OL,21,A```````````````````````````````````````
+OL,22,D]GMWHAT THE HECK IS CHUNKYTEXT? p102   
 OL,24,AAbout  BUser guide   CDigitiser  FIndex
