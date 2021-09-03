@@ -51,7 +51,7 @@ OL,24,AWim BZXGuesserCDan FarrimondFMain Index
 PN,10403
 SC,0003
 PS,0000
-FL,113,8ff,8ff,101,8ff,100
+FL,113,114,8ff,101,8ff,100
 OL,1,S{5|$n=b1|,$n=h<, CTeletext  S`x||p`0  
 OL,2,Sj5 j5j5s{5j5bs CShowcase  S1{]R($\ 
 OL,3,G`````````````````````````````Sj]Q|T/G\`
@@ -59,8 +59,13 @@ OL,4,C]DChris Young  \             S #///'!
 OL,5,GNot very good at writing these things. 
 OL,6,GNot great at teletext art either. W (t 
 OL,7,CSee p113.  F@verystickybunny      Wn?w 
+OL,9,C]DFidyan Genial  \                     
+OL,10,G                                       
+OL,11,G                                       
+OL,12,G                                       
+OL,13,CSee p114.  F@sontolhead                
 OL,20,G``````````````````````````````````3/3``
 OL,21,     CChunkytext editing guideF103      
 OL,22,A]CM        BERGERAC 2020  p125         
-OL,24,AChris Y B        C          FMain Index
+OL,24,AChris Y BFidyan  C          FMain Index
 
