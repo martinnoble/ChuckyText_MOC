@@ -2,7 +2,7 @@ DE,Chunky Fringe User Guide
 CT,16,T
 PN,10301
 SC,0001
-PS,C008
+PS,C000
 FL,102,104,170,101,4ff,100
 OL,1,Uj/%p0pbs`pz5ppp                Qx?y
 OL,2,Ujh45jjk5w   CGet       S tQg~?!
@@ -15,15 +15,15 @@ OL,10,BIt enables anyone to create and edit
 OL,11,Bgenuine teletext pages for display on  
 OL,12,Beither the zxnet.co.ukEonline viewerBor
 OL,13,BaEreal teletext TV.C                   
-OL,15,BThe edit server will be online again   
-OL,16,Bsoon for the next block party!         
-OL,20,E``````````````````````````````````1/2``
-OL,21,BYou can still use the standalone editor
-OL,22,D]MGhttps://zxnet.co.uk/teletext/editor 
+OL,15,BThe edit server is available online at 
+OL,16,Fhttps://blockparty.zxnet.co.uk/        
+OL,20,E``````````````````````````````````1/4``
+OL,21,BJoin the teletext community on Facebook
+OL,22,D]MGfacebook.com/groups/TeletextGroup   
 OL,24,AAbout  BTeletext Art  CDigitiser FIndex
 PN,10302
 SC,0002
-PS,C008
+PS,C000
 FL,102,104,170,101,4ff,100
 OL,1,Uj/%p0pbs`pz5ppp                Qx?y
 OL,2,Ujh45jjk5w   CMake your S tQg~?!
@@ -41,7 +41,57 @@ OL,16,BTeletext art is created by the addition
 OL,17,BofEmosaic colourBcontrol codes, which  
 OL,18,Bturn the character cells following it  
 OL,19,Binto mosaicE"sixels"Blike this:W123456 
-OL,20,E``````````````````````````````````2/2``
+OL,20,E``````````````````````````````````2/4``
 OL,21,B  Tweet your creations with _teletext  
-OL,22,D]MGor join discord.com/invite/SBbPVF7  
+OL,22,D]MGor join our discord.gg/JfytfS3xmg   
+OL,24,AAbout  BTeletext Art  CDigitiser FIndex
+PN,10303
+SC,0003
+PS,C000
+FL,102,104,170,101,4ff,100
+OL,1,Uj/%p0pbs`pz5ppp                Qx?y
+OL,2,Ujh45jjk5w   CGet       S tQg~?!
+OL,3,Uj~5}jj~5}|   CInvolved  SjtQo'  
+OL,4,E``````````````````````````````Su;/!E```
+OL,5,BSubmitting longer articles             
+OL,7,BThe edit server primarily gets used for
+OL,8,Eteletext art,Bbut Chunkytext is about  
+OL,9,Bmore than that.                        
+OL,11,BIf you'd like to write a longer article
+OL,12,Babout yourEhobby, Youtube channel, fish
+OL,13,Emotorcycling academy, etc.Bcontact:    
+OL,15,Bchunkytext@zxnet.co.uk or @ZXGuesser   
+OL,17,FNo teletext editing ability necessary. 
+OL,20,E``````````````````````````````````3/4``
+OL,21,B    TeensF140    BFun and GamesF150    
+OL,22,D]MG THE STORY OF SUPER PAGE 58 p106    
+OL,24,AAbout  BTeletext Art  CDigitiser FIndex
+PS,C000
+PN,10304
+SC,0004
+RE,0
+FL,102,104,170,101,4ff,100
+OL,1,T]FComputing History Centre Cambridge   
+OL,2,T?/////o?//o
+OL,3,U`x|||t   T+?#U pp T+' Up0T"U`p  `0 
+OL,4,U'#o5h}TU`~t  `~}0 ~px$
+OL,5,U p~5jTU?! kuh?#//! /! 
+OL,6,U'!"}jT###U5  jj0  x4u0T*
+OL,7,Uppxj||||0+}|'"|~%/4
+OL,8,U//////!*//////%  #///!  "+////' +' "+/%
+OL,9,W`x||t0T>W`|t0T8Wx||||p  x|||||0  pTlWh4
+OL,10,W}0 h?o4 5*?o4~5 `~5
+OL,11,Wu  k5`pz} u  k   5   ku z5
+OL,12,W%j?//o0?m|?!TxW5TtW+?!
+OL,13,W###! T`Wj5% #o}TWk5T}W"7T`
+OL,14,W#!T./-W"!T~W"#T,,||0W#!T/$W#Tx?'#!W#!To
+OL,15,V`|||||t T~'Vp|||t0   x|||||0T#Vz}0 
+OL,16,Vu  `~u ~0 ~0
+OL,17,V//# ` `~!  k4+/'! z5 +/'! z5
+OL,18,V `|~?/! j5   z5  x|/'    x|/' 
+OL,19,Vhupp|t*}0 x?  ~ppx|0 ~ppx4
+OL,20,V"o%o?!  +? +G4/4V
+OL,21,TpV######!  #+//'#T`~tV"######T`V"#####!
+OL,22,T||||
+OL,23,T]G Saturday 23rd & Sunday 24th April   
 OL,24,AAbout  BTeletext Art  CDigitiser FIndex
