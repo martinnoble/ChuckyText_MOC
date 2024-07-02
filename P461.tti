@@ -3,11 +3,11 @@ PS,C000
 PN,46101
 SC,0001
 FL,101,460,410,130,4ff,101
-OL,1,B```````````````````````````````````````
-OL,2,R      #7!#7!5 jj##57#kj##57#kj##5      
-OL,3,R       u  u ep:`pp55 zj `55 zjpp0      
-OL,4,R           jj5  5 j j55   j5      
-OL,5,R           jjup0upjpz5upjpz5      
+OL,1,R      pp0pp00 p`pp0ppp`pp0ppp`pp0      
+OL,2,R       5  5 e ?"  55 jj  55 jj  %      
+OL,3,R          x#dj7#!5 j j55 b#k5      
+OL,4,R       /  / / **-,$-,/*,.%-,/*,.%      
+OL,5,B      Teletext on the ZX Spectrum      
 OL,6,B```````````````````````````````````````
 OL,7,BThe Volex TTX2000S is a peripheral for 
 OL,8,Bthe ZX Spectrum. It adds the ability to
@@ -27,11 +27,11 @@ OL,24,AIndexBTelesoftwareCRe-EnthusedFTwitter
 PN,46102
 SC,0002
 FL,101,460,410,130,4ff,101
-OL,1,B```````````````````````````````````````
-OL,2,R      #7!#7!5 jj##57#kj##57#kj##5      
-OL,3,R       u  u ep:`pp55 zj `55 zjpp0      
-OL,4,R           jj5  5 j j55   j5      
-OL,5,R           jjup0upjpz5upjpz5      
+OL,1,R      pp0pp00 p`pp0ppp`pp0ppp`pp0      
+OL,2,R       5  5 e ?"  55 jj  55 jj  %      
+OL,3,R          x#dj7#!5 j j55 b#k5      
+OL,4,R       /  / / **-,$-,/*,.%-,/*,.%      
+OL,5,B      Teletext on the ZX Spectrum      
 OL,6,B```````````````````````````````````````
 OL,7,BI'd just got the adapter tuning signals
 OL,8,Breliably when it suddenly stopped being
@@ -51,11 +51,11 @@ OL,24,AIndexBTelesoftwareCRe-EnthusedFTwitter
 PN,46103
 SC,0003
 FL,101,460,410,130,4ff,101
-OL,1,B```````````````````````````````````````
-OL,2,R      #7!#7!5 jj##57#kj##57#kj##5      
-OL,3,R       u  u ep:`pp55 zj `55 zjpp0      
-OL,4,R           jj5  5 j j55   j5      
-OL,5,R           jjup0upjpz5upjpz5      
+OL,1,R      pp0pp00 p`pp0ppp`pp0ppp`pp0      
+OL,2,R       5  5 e ?"  55 jj  55 jj  %      
+OL,3,R          x#dj7#!5 j j55 b#k5      
+OL,4,R       /  / / **-,$-,/*,.%-,/*,.%      
+OL,5,B      Teletext on the ZX Spectrum      
 OL,6,B```````````````````````````````````````
 OL,7,BWith the hardware traced out to a full 
 OL,8,Bschematic I was able to figure out the 
