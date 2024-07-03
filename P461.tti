@@ -3,8 +3,8 @@ PS,C000
 PN,46101
 SC,0001
 FL,101,460,410,130,4ff,101
-OL,1,R      pp0pp00 p`pp0ppp`pp0ppp`pp0      
-OL,2,R       5  5 e ?"  55 jj  55 jj  %      
+OL,1,R      pp0pp00 ``pp0ppp`pp0ppp`pp0      
+OL,2,R       5  5 e :"  55 jj  55 jj  %      
 OL,3,R          x#dj7#!5 j j55 b#k5      
 OL,4,R       /  / / **-,$-,/*,.%-,/*,.%      
 OL,5,B      Teletext on the ZX Spectrum      
@@ -27,8 +27,8 @@ OL,24,AIndexBTelesoftwareCRe-EnthusedFTwitter
 PN,46102
 SC,0002
 FL,101,460,410,130,4ff,101
-OL,1,R      pp0pp00 p`pp0ppp`pp0ppp`pp0      
-OL,2,R       5  5 e ?"  55 jj  55 jj  %      
+OL,1,R      pp0pp00 ``pp0ppp`pp0ppp`pp0      
+OL,2,R       5  5 e :"  55 jj  55 jj  %      
 OL,3,R          x#dj7#!5 j j55 b#k5      
 OL,4,R       /  / / **-,$-,/*,.%-,/*,.%      
 OL,5,B      Teletext on the ZX Spectrum      
@@ -51,8 +51,8 @@ OL,24,AIndexBTelesoftwareCRe-EnthusedFTwitter
 PN,46103
 SC,0003
 FL,101,460,410,130,4ff,101
-OL,1,R      pp0pp00 p`pp0ppp`pp0ppp`pp0      
-OL,2,R       5  5 e ?"  55 jj  55 jj  %      
+OL,1,R      pp0pp00 ``pp0ppp`pp0ppp`pp0      
+OL,2,R       5  5 e :"  55 jj  55 jj  %      
 OL,3,R          x#dj7#!5 j j55 b#k5      
 OL,4,R       /  / / **-,$-,/*,.%-,/*,.%      
 OL,5,B      Teletext on the ZX Spectrum      
