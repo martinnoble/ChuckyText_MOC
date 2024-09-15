@@ -87,12 +87,14 @@ OL,8,B```````````````````````````````````````
 OL,9,BA demonstration datacast reception tool
 OL,10,Bwhich displays all messages received on
 OL,11,Ba particular datachannel and address.  
-OL,13,BThis program calls the ATS ROM, however
-OL,14,Bit includes a patching routine to make 
-OL,15,Bthe necessary changes for TFS users.   
+OL,13,BMake sure you have selected the channel
+OL,14,Bpreset where datacast signals are being
+OL,15,Bbroadcast.                             
+OL,17,BThis program does not use any ROM calls
+OL,18,Bso is compatible with both TFS and ATS.
 OL,20,B```````````````````````````````````````
 OL,21,BTFS users must use PATCH2 to download. 
-OL,22,BSave withG*SAVE DATACST 2400 2852 2840 
+OL,22,BSave withG*SAVE DATACST 2400 2A00      
 OL,23,B```````````````````````````````````4/4`
 OL,24,ABBC indexBZX SpectrumCSuperPage58FIndex
 
