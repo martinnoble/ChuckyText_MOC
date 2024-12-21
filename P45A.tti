@@ -8,7 +8,8 @@ OL,3,~m3ANY|s`?3BBC|s`E2~W~W'~\~u~^W Micro Do
 OL,4,wnloads. Details on P450~w~\~u~_     Use
 OL,5,~^Down-Arrow~_for more~[W~|``/BUBBLES~]Q
 OL,6,~c 2.4 kV]~u~X]`(#~\U~[W~|``*MONITOR~[M/
-OL,7,C~b 567 V]-`h]-`h~\V~[W~|``*MoniTxt~\T~c
-OL,8, 3.6 kVRRRR~\W~[W~|``/DATACST~[M/C~c 1.5
-OL,9, kV]$~X]$~X~\V~[***|c                   
+OL,7,C~b 567 V]-`h]-`h~\V~[U~|``*MoniTxt~\T~c
+OL,8, 3.6 kVRRRR~\V~[W~|``+DATACST~[M/C~c 1.5
+OL,9, kV]$~X]$~X~\W~[U~|``+DataTxt~\T~c 7.6 k
+OL,10,VRRRR~\W~[***|c                         
 OL,27,@JEA@@@OOOGOKOOOGOKOOOGOKOOOGOKOOOGOKO@@

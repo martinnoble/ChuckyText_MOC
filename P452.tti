@@ -113,9 +113,10 @@ OL,14,Bpreset where datacast signals are being
 OL,15,Bbroadcast.                             
 OL,17,BThis program does not use any ROM calls
 OL,18,Bso is compatible with both TFS and ATS.
-OL,20,B```````````````````````````````````````
-OL,21,BTFS users must use PATCH2 to download. 
-OL,22,BSave with:G*SAVE DATACST 2400 2A00     
+OL,19,B```````````````````````````````````````
+OL,20,BTFS users must use PATCH2 to download. 
+OL,21,BSave with:G*SAVE DATACST 2400 2A00     
+OL,22,            *SAVE DataTxt 3000 4E62 0 0 
 OL,23,B```````````````````````````````````5/6`
 OL,24,ABBC indexBZX SpectrumCSuperPage58FIndex
 PN,45206
