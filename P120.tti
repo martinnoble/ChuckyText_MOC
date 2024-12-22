@@ -1,5 +1,4 @@
 PN,12001
-CT,2,C
 PS,C000
 SC,0001
 FL,103,108,109,101,8ff,100
@@ -24,8 +23,6 @@ OL,21,         B90s music reviewsE144
 OL,22,D]MG    TELETEXT ART SHOWCASE p104      
 OL,24,AUserGuideBWolfie PodCBHNL PodcastFIndex
 PN,12002
-CT,2,C
-PS,C000
 SC,0002
 FL,103,108,109,101,8ff,100
 OL,1,U?/`u`p0ppp`pp0pppp0s1ppp`pp0W`pppppp0

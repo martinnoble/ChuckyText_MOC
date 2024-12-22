@@ -1,5 +1,4 @@
 PN,10801
-CT,2,C
 PS,C000
 SC,0001
 FL,102,109,120,101,8ff,100
@@ -22,8 +21,6 @@ OL,21,    BCan you beat Bamber's quiz?E152
 OL,22,D]MG    TELETEXT ART SHOWCASE p104      
 OL,24,AAbout  BPodcasts  CJamie NemethFIndex  
 PN,10802
-CT,2,C
-PS,C000
 SC,0002
 FL,102,109,120,101,8ff,100
 OL,1,U?`pp0pp`pp0ppp`pp0z0ppp  ^TlhU"uu5 
