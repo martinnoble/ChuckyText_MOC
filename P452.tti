@@ -86,7 +86,7 @@ OL,12,BDisplays a live view of the packet data
 OL,13,Breceived by the adapter.               
 OL,15,BThis program does not use any ROM calls
 OL,16,Bso is compatible with both TFS and ATS.
-OL,18,BDoesAnotBwork in current BeebEm release
+OL,18,BRequires BeebEm 4.20 or newer.         
 OL,19,B```````````````````````````````````````
 OL,20,BTFS users must use PATCH2 to download. 
 OL,21,BSave with:G*SAVE MONITOR 2DC0 2FF7     
